@@ -1,0 +1,6 @@
+dvc[ssh]
+mlflow
+dagshub
+pandas
+scikit-learn
+flask
